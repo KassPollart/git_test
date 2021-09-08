@@ -1,0 +1,1 @@
+This is Kass's first git project
